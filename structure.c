@@ -9,7 +9,7 @@ struct StudData {
 int main() {
     struct StudData student;
     
-    student.stu_name = "Sameer Sharma";
+    student.stu_name="Sameer Sharma";
     student.stu_id = 43;
     student.stu_age= 19;
 
